@@ -1,3 +1,5 @@
+package com.cjp.leetcodehost100.newHost100.linkedlist;
+
 /**
  * 141. 环形链表 (Linked List Cycle)
  * 

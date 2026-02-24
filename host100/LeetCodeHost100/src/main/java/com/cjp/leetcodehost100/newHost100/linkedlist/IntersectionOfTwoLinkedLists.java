@@ -1,3 +1,5 @@
+package com.cjp.leetcodehost100.newHost100.linkedlist;
+
 /**
  * 160. 相交链表 (Intersection of Two Linked Lists)
  * 
